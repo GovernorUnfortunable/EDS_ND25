@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.4">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="2245" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2688" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Po-DwmXFVXXbOGFqL5Ki-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Open Science Principles&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="-210" y="230" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="70" y="240" width="200" height="120" as="geometry" />
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-17" value="&lt;div&gt;Interoperability supports the &lt;b&gt;parsing&lt;/b&gt; and &lt;b&gt;connection&lt;/b&gt; of different data sources, it a key piece for &lt;b&gt;automation&lt;/b&gt; (see Module 4)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Data formats are crucial for interoperability and machine readability&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#CCD5AE;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="296" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-18" value="Research that is: &lt;br&gt;1. Accesible&lt;br&gt;2. Transparent&lt;br&gt;3. Collaborative&lt;br&gt;4. Reusable &lt;br&gt;See Leonelli (2023)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="330" width="150" height="110" as="geometry" />
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-18" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Research that is: &lt;br&gt;1. Accesible&lt;br&gt;2. Transparent&lt;br&gt;3. Collaborative&lt;br&gt;4. Reusable &lt;br&gt;See Leonelli (2023)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="330" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Po-DwmXFVXXbOGFqL5Ki-21" value="&lt;b&gt;Open Data&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="-120" y="140" width="50" height="50" as="geometry" />
@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Po-DwmXFVXXbOGFqL5Ki-40" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="380" y="450" width="450" height="290" as="geometry" />
+          <mxGeometry x="340" y="270" width="580" height="317" as="geometry" />
         </mxCell>
         <mxCell id="Po-DwmXFVXXbOGFqL5Ki-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Environmental Data&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#B9E0A5;" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-40">
           <mxGeometry width="240" height="240" as="geometry" />
@@ -61,16 +61,48 @@
           <mxGeometry x="430" y="215" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Po-DwmXFVXXbOGFqL5Ki-11" value="&lt;div&gt;&lt;b&gt;Types of Environmental Data&lt;/b&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-40">
-          <mxGeometry x="20" y="170" width="290" height="120" as="geometry" />
+          <mxGeometry x="20" y="150" width="290" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-12" value="&lt;i&gt;Community data &lt;/i&gt;(generated through participation and Citizen Science Exercises)" style="text;strokeColor=none;fillColor=#F8FFF5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-11">
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-12" value="&lt;i&gt;&lt;u&gt;Community data&lt;/u&gt; &lt;/i&gt;(generated through participation and Citizen Science Exercises)" style="text;strokeColor=none;fillColor=#F8FFF5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-11">
           <mxGeometry y="30" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Po-DwmXFVXXbOGFqL5Ki-13" value="&lt;div&gt;&lt;u&gt;&lt;i&gt;Regulatory Data&lt;/i&gt;&lt;/u&gt; (created when complying with laws and regulations)&lt;/div&gt;" style="text;strokeColor=none;fillColor=#F8FFF5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-11">
           <mxGeometry y="60" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-14" value="&lt;div&gt;&lt;i&gt;Scientific Data&lt;/i&gt; (created by researchers)&lt;/div&gt;" style="text;strokeColor=none;fillColor=#F8FFF5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-11">
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-14" value="&lt;div&gt;&lt;u&gt;&lt;i&gt;Scientific Data&lt;/i&gt;&lt;/u&gt; (created by researchers)&lt;/div&gt;" style="text;strokeColor=none;fillColor=#F8FFF5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-11">
           <mxGeometry y="90" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-91" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Po-DwmXFVXXbOGFqL5Ki-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="60" as="sourcePoint" />
+            <mxPoint x="360" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-93" value="&lt;div&gt;is produced &lt;br&gt;&lt;/div&gt;&lt;div&gt;and &lt;b&gt;shared&lt;/b&gt;&lt;/div&gt;&amp;nbsp;with" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Po-DwmXFVXXbOGFqL5Ki-91">
+          <mxGeometry x="0.0659" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-94" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Specific Uses in Mind&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-40">
+          <mxGeometry x="360" y="26" width="180" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-117" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#A75757,#CB997E);" edge="1" parent="Po-DwmXFVXXbOGFqL5Ki-40">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="390" y="160" as="sourcePoint" />
+            <mxPoint x="390" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-116" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.285;exitY=-0.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Po-DwmXFVXXbOGFqL5Ki-40">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="411.3000000000002" y="25.997999999999877" as="sourcePoint" />
+            <mxPoint x="410" y="-22.409999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-135" value="" style="group" vertex="1" connectable="0" parent="Po-DwmXFVXXbOGFqL5Ki-40">
+          <mxGeometry x="360" y="217" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-144" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 204, 204);&quot;&gt;Repurpose data&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;Re-purposing (and parsing) environmental data is critical for informing environmental action and sustainability efforts&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-135">
+          <mxGeometry x="-10" y="-60" width="230" height="113" as="geometry" />
         </mxCell>
         <mxCell id="Po-DwmXFVXXbOGFqL5Ki-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.562;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -83,23 +115,178 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-52" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;FAIR Guidelines&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;https://www.go-fair.org/fair-principles/&lt;/div&gt;&lt;div&gt;A information standard to support data sharing&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-52" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;FAIR Guidelines&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;https://www.go-fair.org/fair-principles/&lt;/div&gt;&lt;div&gt;A information standard to support data sharing&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#D1D3C1;" vertex="1" parent="1">
           <mxGeometry x="50" y="20" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-54" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;INTEROPERABILITY&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span&gt;&lt;span&gt;is when different information systems and software can exchange and use information (a key piece for automation)&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="140" width="201" height="90" as="geometry" />
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-54" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;INTEROPERABILITY&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span&gt;&lt;span&gt;is when different information systems and software can exchange and use information (a key piece for automation)&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Po-DwmXFVXXbOGFqL5Ki-56" value="&lt;b&gt;APIs&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="310" y="230" width="50" height="50" as="geometry" />
+          <mxGeometry x="330" y="80" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Po-DwmXFVXXbOGFqL5Ki-54" target="Po-DwmXFVXXbOGFqL5Ki-56">
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Po-DwmXFVXXbOGFqL5Ki-54">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="280" as="sourcePoint" />
-            <mxPoint x="440" y="280" as="targetPoint" />
+            <mxPoint x="330" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="120" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Po-DwmXFVXXbOGFqL5Ki-60" value="&lt;div&gt;Generally&lt;/div&gt;&lt;div&gt;uses&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-59">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-62" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Refinery Air Watch&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;https://www.refineryairwatch.org/&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Interoperable from many sources&lt;/font&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E5EEF5;" vertex="1" parent="1">
+          <mxGeometry x="450" y="50" width="166" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-67" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Po-DwmXFVXXbOGFqL5Ki-56" target="Po-DwmXFVXXbOGFqL5Ki-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="160" as="sourcePoint" />
+            <mxPoint x="350" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-68" value="&lt;div&gt;Example /&lt;/div&gt;&lt;div&gt;Use case&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Po-DwmXFVXXbOGFqL5Ki-67">
+          <mxGeometry x="-0.0374" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-77" value="&lt;b&gt;Interoperability Problem&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#626262;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-78" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Many times, regulatory data is shared in non-structured formats that are not machine-readable, like .pdfs; or without metadata or documentation.&lt;/font&gt;" style="text;strokeColor=#626262;fillColor=#F1F1F1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-77">
+          <mxGeometry y="30" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-81" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.009;entryY=0.317;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Po-DwmXFVXXbOGFqL5Ki-54" target="Po-DwmXFVXXbOGFqL5Ki-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="340" as="sourcePoint" />
+            <mxPoint x="370" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-88" value="&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Data Stewardship&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;defines policies and procedures used to govern data; enables or restricts interoperability&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#E4E6D4;" vertex="1" parent="1">
+          <mxGeometry x="30" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-89" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Data Management&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;effective use of data through storage, organization, quality assurance&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#E4E6D4;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-97" value="&lt;b&gt;Compliance &lt;/b&gt;of &lt;b&gt;laws&lt;/b&gt; and &lt;b&gt;regulations &lt;/b&gt;(account for emissions/pollution)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-113" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="763" y="29" width="287" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Po-DwmXFVXXbOGFqL5Ki-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="140" as="sourcePoint" />
+            <mxPoint x="200" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Po-DwmXFVXXbOGFqL5Ki-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="140" as="sourcePoint" />
+            <mxPoint x="30" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-103" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=light-dark(#990000,#F19C99);" edge="1" parent="Po-DwmXFVXXbOGFqL5Ki-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="101" as="sourcePoint" />
+            <mxPoint x="210" y="101" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-105" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#006666;" edge="1" parent="Po-DwmXFVXXbOGFqL5Ki-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="140" as="sourcePoint" />
+            <mxPoint x="160" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="80" />
+              <mxPoint x="70" y="30" />
+              <mxPoint x="100" y="60" />
+              <mxPoint x="110" y="80" />
+              <mxPoint x="120" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-106" value="Time â³" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-113">
+          <mxGeometry x="197" y="126" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-107" value="Pollution í ¼í¿­í ½í²¨" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-113">
+          <mxGeometry width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-111" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#660000;" edge="1" parent="Po-DwmXFVXXbOGFqL5Ki-113" source="Po-DwmXFVXXbOGFqL5Ki-108">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" as="sourcePoint" />
+            <mxPoint x="80" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-108" value="&lt;p align=&quot;left&quot; style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;em style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot; data-preserver-spaces=&quot;true&quot;&gt;Spikes tend to &lt;/span&gt;&lt;span style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot; data-preserver-spaces=&quot;true&quot;&gt;be missed&lt;/span&gt;&lt;span style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot; data-preserver-spaces=&quot;true&quot;&gt; in &lt;/span&gt;&lt;span style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot; data-preserver-spaces=&quot;true&quot;&gt;longer&lt;/span&gt;&lt;span style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot; data-preserver-spaces=&quot;true&quot;&gt; reporting periods.&amp;nbsp;&lt;/span&gt;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;left&quot; style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;em style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot; data-preserver-spaces=&quot;true&quot;&gt;Community-based monitoring is a response to lax standards.&lt;/span&gt;&lt;/em&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;em style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot; data-preserver-spaces=&quot;true&quot;&gt;(e.g. Bucket Brigades)&lt;/span&gt;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#660000;" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-113">
+          <mxGeometry x="147" y="11" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-118" value="&lt;pre align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;u&gt;&lt;b&gt;Examples&lt;/b&gt;&lt;/u&gt;&lt;br&gt;- Particulate Matter (PM) &lt;i&gt;- Air&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;- Traces of chemical compounds - &lt;i&gt;Air + Water + Soil&lt;br&gt;&lt;/i&gt;&lt;font&gt;- Water quality, oxigen, solids, and contaminants &lt;/font&gt;&lt;font&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="175" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-120" value="&lt;p align=&quot;left&quot; style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;em style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot;&gt;&lt;span style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top: 0pt; margin-bottom: 0pt;&quot; data-preserver-spaces=&quot;true&quot;&gt;Longer reporting periods can flat pollution values&lt;/span&gt;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-121" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Po-DwmXFVXXbOGFqL5Ki-62" target="Po-DwmXFVXXbOGFqL5Ki-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="230" as="sourcePoint" />
+            <mxPoint x="690" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-123" value="Uses " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Po-DwmXFVXXbOGFqL5Ki-121">
+          <mxGeometry x="-0.0329" y="-2" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-127" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="910" y="340" as="sourcePoint" />
+            <mxPoint x="860" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-128" value="&lt;b&gt;Scientific Research&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="912" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-136" value="&lt;div&gt;&lt;b&gt;Raw data is useless data&lt;/b&gt;&lt;/div&gt;&lt;div&gt;we need context&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-137" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Metadata&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;Metadata and careful documentation supports (re)usability and eases interpretation (specially by/for communities)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="450" width="175" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-138" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.088;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.6;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Po-DwmXFVXXbOGFqL5Ki-136" target="Po-DwmXFVXXbOGFqL5Ki-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="410" as="sourcePoint" />
+            <mxPoint x="350" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-141" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Po-DwmXFVXXbOGFqL5Ki-137" target="Po-DwmXFVXXbOGFqL5Ki-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="410" as="sourcePoint" />
+            <mxPoint x="-80" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-20" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-143" value="Needs + Uses" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-147" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="680" y="530" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-129" value="&lt;b&gt;Support community use &lt;/b&gt;(Environmental Justice)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#A75757,#CB997E);fillColor=light-dark(#FEFAE0,#FEFAE0);" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-147">
+          <mxGeometry width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-134" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Fenceline / Frontline communities (adjacent to pollution - climate risks) tend to carry the burden of documenting impacts (Citizen / Community Science - see &lt;i&gt;Module 2 &lt;/i&gt;) &lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#A75757,#CB997E);fillColor=light-dark(#FEFDF2,#FEFAE0);" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-147">
+          <mxGeometry y="35" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Po-DwmXFVXXbOGFqL5Ki-148" value="&lt;b&gt;1&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="600" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
