@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.4">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
-    <mxGraphModel dx="2688" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3323" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,9 @@
           <mxGeometry x="430" y="217.0347003154574" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Po-DwmXFVXXbOGFqL5Ki-11" value="&lt;div&gt;&lt;b&gt;Types of Environmental Data&lt;/b&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-40">
-          <mxGeometry x="20" y="151.41955835962145" width="290" height="120.85173501577286" as="geometry" />
+          <mxGeometry x="20" y="151.41955835962145" width="290" height="120.85173501577286" as="geometry">
+            <mxRectangle x="20" y="151.41955835962145" width="200" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Po-DwmXFVXXbOGFqL5Ki-12" value="&lt;i&gt;&lt;u&gt;Community data&lt;/u&gt; &lt;/i&gt;(generated through participation and Citizen Science Exercises)" style="text;strokeColor=none;fillColor=#F8FFF5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Po-DwmXFVXXbOGFqL5Ki-11">
           <mxGeometry y="30" width="290" height="30.283911671924287" as="geometry" />
