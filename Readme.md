@@ -15,6 +15,9 @@ This visual aid aims to:
 * `.svg`: these are editable graphs (you can use draw.io or [inkscape](https://inkscape.en.softonic.com/mac) to edit these files.
 * `.png`: these files are not editable, but they are easy to visualize with many built-in applications on PCs and Macs. 
 
+**Key Topics:**
+* **Beyond Original Intent**: Files using the EDS_BYC describe and present components involved in reporpusing data for goals different from their creation. 
+
 **How to Use:**
 
 * **View the Graph:** open the `.svg` or `.png` file in your web browser to see the visual representation of specific aspects of the course. 
