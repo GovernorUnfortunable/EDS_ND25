@@ -1,7 +1,7 @@
 # Data in a Changing Planet: environmental data and sustainability (ND Spring 25)
 ## _Visual Representation of Concepts for the class_ 
 
-This repository contains different visual graphs representing the interconnected objects, technologies, concepts, and examples explored throughout the _Data in a Changing Planet: Environmental Data and Sustainability course_, for the Spring 2025. The objective is to have a useful representation of objects, concepts, and relations that allows us to bring forward the complexity of the issues discussed in class. It also brings together pieces we have discussed separately in different passages of our class so that socio-technical processes supporting environmental data production and use can be better understood. 
+This repository contains different visual graphs representing the interconnected objects, technologies, concepts, and examples explored throughout the _Data in a Changing Planet: Environmental Data and Sustainability_ course, for the Spring 2025. The objective is to have a useful representation of objects, concepts, and relations that allows us to bring forward the complexity of the issues discussed in class. It also brings together pieces we have discussed separately in different passages of our class so that socio-technical processes supporting environmental data production and use can be better understood. 
 
 **Purpose:**
 
