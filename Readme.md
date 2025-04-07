@@ -34,5 +34,7 @@ Your input is valuable in making this resource as effective as possible! Please 
 
 **Software Used:**
 
-* [Draw.io](https://www.drawio.com): For creating and editing the graph.
+* [Draw.io](https://www.drawio.com): For creating and editing (complex) graphs.
+* [Excalidraw](https://app.excalidraw.com/): For creating and editing (simpler) graphs.
+* [Mermaid Syntax](https://mermaid.js.org/intro/syntax-reference.html): a language used to provide definitions of the diagram and its contents (used in connection to Excalidraw). 
 
